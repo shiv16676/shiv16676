@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm Shiv Kumar Napit
 
-<!--
-**shiv16676/shiv16676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Java & Alfresco Developer  
+💼 Enterprise Content Management | Alfresco ACS  
+📍 Pune, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔹 13+ years of experience in **Java & Alfresco**
+- 🔹 Working currently on ** Alfresco 25.x**
+- 🔹 Strong in **Repository customization, behaviors, actions, webscripts**
+- 🔹 Hands-on with **Docker, AWS S3, CI/CD**
+- 🔹 Currently learning **GitHub Actions** for automation & DevOps
+- 🔹 Believe in clean code & production-safe fixes 😄
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Java, Spring, REST APIs
+- Alfresco Repository & Share
+- Content Models, Renditions, Transformations
+
+**DevOps / Tools/ Ansible**
+- Git, GitHub
+- GitHub Actions (learning 🚀)
+- Docker, Jenkins
+- AWS (S3, IAM basics)
+
+**Databases**
+- Oracle
+- MySQL
+
+---
+
+## 📌 Featured Repositories
+
+🔹 [Alfresco-Codes](https://github.com/shiv16676/Alfresco-Codes)  
+Practice & real Alfresco customizations
+
+🔹 [SpringPractice](https://github.com/shiv16676/SpringPractice)  
+Spring & backend concepts
+
+🔹 [Basic-Java](https://github.com/shiv16676/Basic-Java)  
+Core Java fundamentals
+
+🔹 [MultiThreading](https://github.com/shiv16676/MultiThreading)  
+Concurrency & threading concepts
+
+---
+
+## 🌱 Currently Learning
+
+- GitHub Actions (CI/CD)
+- Advanced AWS integrations
+- Performance optimization in Alfresco
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [shiv16676](https://github.com/shiv16676)
+
+---
+
+⭐ *“Consistency beats motivation.”*
