@@ -17,17 +17,24 @@
 
 ---
 
+### 🔭 Currently Working On
+- Migrating Alfresco customizations from ACS-7.4 to **ACS 25.x** version
+- Improving CI/CD pipelines using **GitHub Actions**
+- Production issue fixes and applying best practices in the project.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend**
 - Java, Spring, REST APIs
 - Alfresco Repository & Share
-- Content Models, Renditions, Transformations
+- Content Models, Actions, Behaviors, Scheduled jobs, Renditions, Custom Audit, etc.
 
 **DevOps / Tools/ Ansible**
 - Git, GitHub
 - GitHub Actions (learning 🚀)
-- Docker, Jenkins
+- Docker, Jenkins, Ansible, Appdynamics, Splunk
 - AWS (S3, IAM basics)
 
 **Databases**
@@ -66,4 +73,4 @@ Concurrency & threading concepts
 
 ---
 
-⭐ *“Consistency beats motivation.”*
+⭐ 💬 *Always focused on production-safe fixes and clean architecture.*
