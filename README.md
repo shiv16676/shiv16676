@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shiv Kumar Napit
 
-🚀 Senior Java & Alfresco Developer  
+🚀 Senior Java & Alfresco Developer/Architect  
 💼 Enterprise Content Management | Alfresco ACS  
 📍 Pune, India
 
